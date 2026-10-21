@@ -1,0 +1,5 @@
+# Core Dependencies for GA-TaPhoi-Equipment-Selection
+pandas>=2.0.0
+numpy>=1.24.0
+gspread>=5.0.0
+google-auth>=2.0.0
